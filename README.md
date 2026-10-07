@@ -67,9 +67,8 @@ Menggunakan tag `<img>` untuk menampilkan gambar di halaman. Harus menyertakan a
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/6.png" width="300"/><br>
 Menambahkan atribut `width` atau `heigh`t pada `tag` `<img>` untuk mengatur ukuran gambar sesuai kebutuhan.
 #### 6. Menambahkan Hyperlink
-<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/7.png" width="300"/>
-<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/8.png" width="300"/><br>
-Menggunakan tag `<a>` untuk membuat tautan. Bisa diarahkan ke halaman lain, file, atau website.
+<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/7.png" width="300"/> <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/8.png" width="300"/><br>
+Menggunakan tag `< a >` untuk membuat tautan. Bisa diarahkan ke halaman lain, file, atau website.
 #### 7. Menambahkan List
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/9.png" width="300"/><br> 
 Ordered list `(ol)` → daftar dengan angka/huruf. Unordered list `(ul)` → daftar dengan bullet/poin.
@@ -77,7 +76,8 @@ Ordered list `(ol)` → daftar dengan angka/huruf. Unordered list `(ul)` → daf
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/10.png" width="300"/><br> 
 Menggunakan `<!-- ... -->` untuk menulis catatan di dalam kode. Komentar tidak akan tampil di browser, hanya terlihat di kode.
 #### 9. Menggambungkan semua element
-<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/11.png" width="300"/><br> emua elemen (paragraf, judul, gambar, hyperlink, list, komentar) bisa digabung dalam satu halaman HTML untuk membentuk struktur lengkap.
+<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/11.png" width="300"/><br>
+Semua elemen (paragraf, judul, gambar, hyperlink, list, komentar) bisa digabung dalam satu halaman HTML untuk membentuk struktur lengkap.
 
 [![Lihat Hasil Praktikum](https://img.shields.io/badge/Go-Redirect-blue)](https://aramli.github.io/Lab1Web/index.html) → klik untuk lihat hasil praktikum
 
