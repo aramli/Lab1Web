@@ -53,30 +53,31 @@ Komentar digunakan untuk menambahkan catatan pada kode agar lebih mudah dipahami
 
 #### 1. Membuat Paragraf
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/2.png" width="300"/><br> 
-Digunakan untuk menuliskan teks dalam bentuk paragraf dengan tag <p>. Teks akan otomatis dipisahkan sesuai paragraf yang dibuat.
+Digunakan untuk menuliskan teks dalam bentuk paragraf dengan tag `<p>`. Teks akan otomatis dipisahkan sesuai paragraf yang dibuat.
 #### 2. Menambahkan Judul
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/3.png" width="300"/><br>
-Menggunakan tag <h1> sampai <h6> untuk membuat judul dengan ukuran berbeda. Judul membantu memberi struktur pada halaman.
+Menggunakan tag `<h1>` sampai `<h6>` untuk membuat judul dengan ukuran berbeda. Judul membantu memberi struktur pada halaman.
 #### 3. Memformat Teks
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/4.png" width="300"/><br> 
-Bisa menebalkan teks dengan <b> atau <strong>, dan Tag <sub> itu dipakai untuk menampilkan teks sebagai subscript, yaitu huruf/angka kecil yang ditulis agak ke bawah dari garis teks normal.  
+Bisa menebalkan teks dengan `<b>` atau `<strong>`, dan Tag `<sub>` itu dipakai untuk menampilkan teks sebagai subscript, yaitu huruf/angka kecil yang ditulis agak ke bawah dari garis teks normal.  
 #### 4. Menyisipkan Gambar
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/5.png" width="300"/><br>
-Menggunakan tag <img> untuk menampilkan gambar di halaman. Harus menyertakan atribut src sebagai sumber gambar.
+Menggunakan tag `<img>` untuk menampilkan gambar di halaman. Harus menyertakan atribut `src` sebagai sumber gambar.
 #### 5. Mengganti ukuran Gambar
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/6.png" width="300"/><br>
-Menambahkan atribut width atau height pada tag <img> untuk mengatur ukuran gambar sesuai kebutuhan.
+Menambahkan atribut `width` atau `heigh`t pada `tag` `<img>` untuk mengatur ukuran gambar sesuai kebutuhan.
 #### 6. Menambahkan Hyperlink
-<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/7.png" width="300"/><br>
-Menggunakan tag <a> untuk membuat tautan. Bisa diarahkan ke halaman lain, file, atau website.
+<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/7.png" width="300"/>
+<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/8.png" width="300"/><br>
+Menggunakan tag `<a>` untuk membuat tautan. Bisa diarahkan ke halaman lain, file, atau website.
 #### 7. Menambahkan List
-<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/8.png" width="300"/><br> 
-Ordered list (<ol>) → daftar dengan angka/huruf. Unordered list (<ul>) → daftar dengan bullet/poin.
-#### 8. Menambahkan Komentar
 <img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/9.png" width="300"/><br> 
-Menggunakan <!-- ... --> untuk menulis catatan di dalam kode. Komentar tidak akan tampil di browser, hanya terlihat di kode.
+Ordered list `(ol)` → daftar dengan angka/huruf. Unordered list `(ul)` → daftar dengan bullet/poin.
+#### 8. Menambahkan Komentar
+<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/10.png" width="300"/><br> 
+Menggunakan `<!-- ... -->` untuk menulis catatan di dalam kode. Komentar tidak akan tampil di browser, hanya terlihat di kode.
 #### 9. Menggambungkan semua element
-<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/10.png" width="300"/><br> emua elemen (paragraf, judul, gambar, hyperlink, list, komentar) bisa digabung dalam satu halaman HTML untuk membentuk struktur lengkap.
+<img src="https://github.com/aramli/Lab1Web/raw/main/Praktikum1/11.png" width="300"/><br> emua elemen (paragraf, judul, gambar, hyperlink, list, komentar) bisa digabung dalam satu halaman HTML untuk membentuk struktur lengkap.
 
-[![Lihat Hasil Praktikum](https://img.shields.io/badge/Go-Redirect-blue)](https://aramli.github.io/Lab1Web/index.html)
+[![Lihat Hasil Praktikum](https://img.shields.io/badge/Go-Redirect-blue)](https://aramli.github.io/Lab1Web/index.html) → klik untuk lihat hasil praktikum
 
